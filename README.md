@@ -1,4 +1,4 @@
-# Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).</a>
+## Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).</a>
 <img width="1440" alt="Screenshot 2023-10-29 at 22 47 13" src="https://github.com/sudo-self/sveltejs-starter/assets/119916323/362301cc-bbb0-4cee-8596-0381a825f679">
 
 
